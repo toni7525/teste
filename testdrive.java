@@ -86,7 +86,7 @@ public class testdrive extends OpMode {
         latdiry = latOldDirx * (float)sinh(amount) + latdiry * (float)cosh(amount);
     }
 
-    public void moveto(/*meters*/float x,float y){
+    //public void moveto(/*meters*/float x,float y){
 
-    }
+    //}
 }
